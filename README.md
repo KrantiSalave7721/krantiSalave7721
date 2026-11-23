@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Kranti Salave! 👋
 
-<!--
-**KrantiSalave7721/krantiSalave7721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Full Stack Developer | Fresher
 
-Here are some ideas to get you started:
+Welcome to my GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 B.Tech Computer Science Graduate (2026)
+
+💻 Skills:
+- Core Java
+- Advanced Java
+- HTML
+- CSS
+- JavaScript
+- SQL
+- Spring Boot
+
+### 🌐 My Portfolio
+
+[Click Here to View My Portfolio](https://github.com/KrantiSalave7721/krantiSalave7721.git)
+
+### 📂 My Projects
+Check out my GitHub repositories!
+
+### 📫 Contact Me
+Email: krantisalave3@gmail.com
